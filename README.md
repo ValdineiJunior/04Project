@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://valdineijunior.github.io/HiddenSearch/">
-  <img alt="03Project" src="https://github.com/ValdineiJunior/04Project/blob/main/assets/Screenshot.png">
+  <img alt="03Project" src="https://github.com/ValdineiJunior/HiddenSearch/blob/main/assets/Screenshot.png">
   </a>
 </p>
 
